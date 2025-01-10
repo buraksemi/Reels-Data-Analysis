@@ -12,15 +12,15 @@ The dataset was collected from my Instagram account, where I post reels focused 
 
 **Fields Included:**
 
-Caption: Text or hashtags accompanying the reel.
-Upload Timestamp: Date and time of posting.
-Duration (seconds): Reel length in seconds.
-Accounts Reached: Number of accounts that viewed the reel.
-Plays: Number of times the reel was played.
-Likes: Number of likes received.
-Comments: Number of comments made on the reel.
-Shares: Number of times the reel was shared.
-Saves: Number of times the reel was saved.
+-Caption: Text or hashtags accompanying the reel.
+-Upload Timestamp: Date and time of posting.
+-Duration (seconds): Reel length in seconds.
+-Accounts Reached: Number of accounts that viewed the reel.
+-Plays: Number of times the reel was played.
+-Likes: Number of likes received.
+-Comments: Number of comments made on the reel.
+-Shares: Number of times the reel was shared.
+-Saves: Number of times the reel was saved.
 
 ## Data Analysis
 **Techniques Used**
